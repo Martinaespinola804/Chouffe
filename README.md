@@ -8,4 +8,5 @@ Entregas año 2023
 * Ivo Vazquez, <ivovazquez888@gmail.com>
 
 [Este es mi linkedin](https://www.linkedin.com/in/martinaespinola/)!
-![] (<https://github.com/Martinaespinola804/Chouffe/blob/main/descarga.jfif>)
+![](https://github.com/Martinaespinola804/Chouffe/blob/main/descarga.jfif)
+![](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png){width='100px'}
