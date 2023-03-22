@@ -9,5 +9,5 @@ Entregas año 2023
 
 [Este es mi linkedin](https://www.linkedin.com/in/martinaespinola/)
 
-![](https://github.com/Martinaespinola804/Chouffe/blob/main/Selfie%20Grupal.jpg)
+![](https://github.com/Martinaespinola804/Chouffe/blob/main/Selfie%20Grupal%20Recortada.png)
 
