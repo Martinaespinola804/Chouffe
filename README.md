@@ -7,5 +7,5 @@ Entregas año 2023
 * Matías Reyes, <matireyes123@gmail.com> 
 * Ivo Vazquez, <ivovazquez888@gmail.com>
 
-[Este es mi linkedin](https://www.linkedin.com/in/martinaespinola/)
-[ ](<descarga.jfif>)
+[Este es mi linkedin](https://www.linkedin.com/in/martinaespinola/)!
+! [ ](<descarga.jfif>)
